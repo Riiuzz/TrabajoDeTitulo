@@ -1,5 +1,12 @@
 # Active Research Bot – Prototipo de Asistente Conversacional
 
+## 📖 Documentación Rápida
+
+- **📋 Registro Detallado de Avances:** Ver [`PROGRESS.md`](./PROGRESS.md)  
+  Contiene el historial completo de cada fase del desarrollo, cambios técnicos, tecnologías añadidas y problemas resueltos.
+
+---
+
 ## Descripción general del proyecto
 
 Active Research Bot es un prototipo de asistente conversacional desarrollado como trabajo de título para apoyar la atención de potenciales clientes y visitantes del sitio web de la empresa **Active Research**.  
